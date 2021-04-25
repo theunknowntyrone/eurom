@@ -1,0 +1,27 @@
+{
+  "name": "eurom",
+  "version": "1.0.0",
+  "description": "Euromilion Number Genereator",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theunknowntyrone/eurom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theunknowntyrone/eurom/issues"
+  },
+  "homepage": "https://github.com/theunknowntyrone/eurom#readme",
+  "devDependencies": {
+    "eslint": "^7.25.0",
+    "eslint-config-node": "^4.1.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.2.1"
+  }
+}
